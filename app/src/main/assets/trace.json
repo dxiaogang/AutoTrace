@@ -1,0 +1,6 @@
+{
+  "trace":[
+    {"activity":"com.weidian.supportdemo.MainActivity","ids":"button_a,button_c,image_view"},
+    {"activity":"com.weidian.supportdemo.AActivity","ids":"button_a,button_b"}
+  ]
+}
